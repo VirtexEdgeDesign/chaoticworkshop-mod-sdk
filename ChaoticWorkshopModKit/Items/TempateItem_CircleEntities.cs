@@ -11,7 +11,7 @@ namespace ChaoticWorkshop.Mods.Template.Items
     /// <summary>
     /// The basic grey circle which is static
     /// </summary>
-    public class TemplateItem_CircleGrey : TempateBaseSandboxEntity
+    public class TemplateItem_CircleGrey : TemplateBaseSandboxEntity
     {
         public TemplateItem_CircleGrey(ChaoticSandboxBaseScene level, Vector2 position)
             : base (level, position, true)
@@ -37,7 +37,7 @@ namespace ChaoticWorkshop.Mods.Template.Items
     /// <summary>
     /// A Green Circle which has a more bouncey side to it
     /// </summary>
-    public class TemplateItem_CircleGreen : TempateBaseSandboxEntity
+    public class TemplateItem_CircleGreen : TemplateBaseSandboxEntity
     {
         public TemplateItem_CircleGreen(ChaoticSandboxBaseScene level, Vector2 position)
             : base(level, position, true)
@@ -55,7 +55,7 @@ namespace ChaoticWorkshop.Mods.Template.Items
     /// <summary>
     /// A Green Circle which has a more bouncey side to it
     /// </summary>
-    public class TemplateItem_CircleOrange : TempateBaseSandboxEntity
+    public class TemplateItem_CircleOrange : TemplateBaseSandboxEntity
     {
         public TemplateItem_CircleOrange(ChaoticSandboxBaseScene level, Vector2 position)
             : base(level, position, true)
@@ -73,7 +73,7 @@ namespace ChaoticWorkshop.Mods.Template.Items
     /// <summary>
     /// A Green Circle which has a more bouncey side to it
     /// </summary>
-    public class TemplateItem_CirclePurple : TempateBaseSandboxEntity
+    public class TemplateItem_CirclePurple : TemplateBaseSandboxEntity
     {
         GravityController GravityController;
 

@@ -15,9 +15,9 @@ namespace ChaoticWorkshop.Mods.Template.Items
 
     // Sandbox Entities inherit from 'ChaoticBaseSandboxEntity'. 
     // It's useful to create a seperate intermediate SandboxEntity class for each mod 
-    public class TempateBaseSandboxEntity : ChaoticBaseSandboxEntity
+    public class TemplateBaseSandboxEntity : ChaoticBaseSandboxEntity
     {
-        public TempateBaseSandboxEntity(ChaoticSandboxBaseScene level, Vector2 position, bool IsDynamic = false)
+        public TemplateBaseSandboxEntity(ChaoticSandboxBaseScene level, Vector2 position, bool IsDynamic = false)
             : base(level, position, IsDynamic)
         {
         }
