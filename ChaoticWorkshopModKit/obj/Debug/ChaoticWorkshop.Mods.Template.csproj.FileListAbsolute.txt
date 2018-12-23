@@ -1,0 +1,17 @@
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Content\textures\spritesheet.xnb
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\modconfig.json
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\ChaoticWorkshop.SDK.dll
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Farseer.dll
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\MonoGame.Framework.dll
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\VerticesEngine.GL.dll
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\MonoGame.Framework.xml
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\obj\Debug\ChaoticWorkshop.Mods.Template.csprojAssemblyReference.cache
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\obj\Debug\ChaoticWorkshop.Mods.Template.csproj.CoreCompileInputs.cache
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\obj\Debug\ChaoticWorkshop.Mods.Template.csproj.CopyComplete
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\ChaoticWorkshop.Mods.Template.dll
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\ChaoticWorkshop.Mods.Template.pdb
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\obj\Debug\ChaoticWorkshop.Mods.Template.dll
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\obj\Debug\ChaoticWorkshop.Mods.Template.pdb
