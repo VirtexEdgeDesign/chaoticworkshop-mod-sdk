@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SourceFile>C:/Users/rtroe/Documents/GitHub/chaoticworkshop-modkit/ChaoticWorkshopModKit/Content/textures/spritesheet.png</SourceFile>
-  <SourceTime>2018-12-04T21:53:35.9065989-08:00</SourceTime>
+  <SourceTime>2018-12-26T19:20:52.4689808-08:00</SourceTime>
   <DestFile>C:/Users/rtroe/Documents/GitHub/chaoticworkshop-modkit/ChaoticWorkshopModKit/Content/bin/DesktopGL/ModKitContent/textures/spritesheet.xnb</DestFile>
-  <DestTime>2018-12-22T16:09:52.6793527-08:00</DestTime>
+  <DestTime>2018-12-26T19:20:58.5707884-08:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-09-23T14:55:52-07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
