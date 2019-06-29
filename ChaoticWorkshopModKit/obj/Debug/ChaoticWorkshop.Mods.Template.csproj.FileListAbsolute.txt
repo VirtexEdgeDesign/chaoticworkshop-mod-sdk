@@ -4,9 +4,7 @@ C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin
 C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Farseer.dll
 C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\MonoGame.Framework.dll
 C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Newtonsoft.Json.dll
-C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\VerticesEngine.GL.dll
 C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\MonoGame.Framework.xml
-C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Newtonsoft.Json.xml
 C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\obj\Debug\ChaoticWorkshop.Mods.Template.csprojAssemblyReference.cache
 C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\obj\Debug\ChaoticWorkshop.Mods.Template.csproj.CoreCompileInputs.cache
@@ -15,3 +13,8 @@ C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin
 C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\ChaoticWorkshop.Mods.Template.pdb
 C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\obj\Debug\ChaoticWorkshop.Mods.Template.dll
 C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\obj\Debug\ChaoticWorkshop.Mods.Template.pdb
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Bepu.dll
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Lidgren.GL.dll
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\VerticesEngine.dll
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\Lidgren.GL.pdb
+C:\Users\rtroe\Documents\GitHub\chaoticworkshop-modkit\ChaoticWorkshopModKit\bin\Debug\VerticesEngine.pdb

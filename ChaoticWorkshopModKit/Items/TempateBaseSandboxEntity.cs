@@ -1,30 +1,26 @@
-﻿using System;
+﻿using ChaoticWorkshop.SDK.Entities;
 using Microsoft.Xna.Framework;
-using ChaoticWorkshop.SDK;
 using Microsoft.Xna.Framework.Graphics;
-using ChaoticWorkshop.SDK.Entities;
+using VerticesEngine;
 
 namespace ChaoticWorkshop.Mods.Template.Items
 {
-    // entities are registered by category
-    public enum TemplateEntityCategories
+    internal enum ModItemCategories
     {
-        TestBed_CirclularItems,
-        TestBed_RectangularItems
+        Circles,
+        Boxes,
+        Joints
     }
+
 
     // Sandbox Entities inherit from 'ChaoticBaseSandboxEntity'. 
     // It's useful to create a seperate intermediate SandboxEntity class for each mod 
     public class TemplateBaseSandboxEntity : ChaoticBaseSandboxEntity
     {
-        public TemplateBaseSandboxEntity(ChaoticSandboxBaseScene level, Vector2 position, bool IsDynamic = false)
+        public TemplateBaseSandboxEntity(vxGameplayScene2D level, Vector2 position, bool IsDynamic = false)
             : base(level, position, IsDynamic)
         {
-        }
 
-        public override Texture2D GetSpriteSheet()
-        {
-            return ChaoticBaseSandboxEntity.EntitySpriteSheetRegister[GetItemTypeKey()].SpriteSheet;
         }
     }
 }

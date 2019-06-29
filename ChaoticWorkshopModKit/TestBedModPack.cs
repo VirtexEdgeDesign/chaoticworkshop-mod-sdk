@@ -5,12 +5,14 @@ using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using System.IO;
 using System.Reflection;
-using VerticesEngine.Core;
+using VerticesEngine;
 
 namespace ChaoticWorkshop.Mods.Template
 {
     public class TemplateModPack : ChaoticModPack
     {
+        public const string ContactPackName = "Test Content Pack Name";
+
         /// <summary>
         /// Load your sprite sheet here
         /// </summary>
@@ -61,27 +63,11 @@ namespace ChaoticWorkshop.Mods.Template
             base.Initialise(Engine);
 
             // add some initalisation code here
+
+            // as an example, register the entity categories here: 
+            RegisterNewCategory(ContactPackName, ModItemCategories.Circles, Rectangle.Empty, Color.MonoGameOrange);
+            RegisterNewCategory(ContactPackName, ModItemCategories.Boxes, Rectangle.Empty, Color.DeepSkyBlue);
         }
-
-
-        /// <summary>
-        /// Register your Items here.
-        /// </summary>
-        protected override void OnRegisterSandboxItems()
-        {
-            base.OnRegisterSandboxItems();
-
-            RegisterNewCategory("Template Mod!", TemplateEntityCategories.TestBed_CirclularItems, Rectangle.Empty, Color.MonoGameOrange);
-
-
-            // Ball
-            RegisterNewItem(typeof(TemplateItem_CircleGrey), "Grey Ball", TemplateEntityCategories.TestBed_CirclularItems, new Rectangle(0, 0, 68, 68));
-            RegisterNewItem(typeof(TemplateItem_CircleGreen), "Green Ball", TemplateEntityCategories.TestBed_CirclularItems, new Rectangle(68, 0, 68, 68));
-            RegisterNewItem(typeof(TemplateItem_CircleOrange), "Orange Ball", TemplateEntityCategories.TestBed_CirclularItems, new Rectangle(68 * 2, 0, 68, 68));
-            RegisterNewItem(typeof(TemplateItem_CirclePurple), "Orange Ball", TemplateEntityCategories.TestBed_CirclularItems, new Rectangle(68 * 3, 0, 68, 68));
-
-        }
-
 
 
         protected override void LoadSoundEffects()

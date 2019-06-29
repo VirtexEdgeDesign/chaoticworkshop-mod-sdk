@@ -38,34 +38,50 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ChaoticWorkshop.SDK, Version=0.9.1.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\Virtex.ChaoticWorkshop.ModSDK.0.9.1-beta\lib\net45\ChaoticWorkshop.SDK.dll</HintPath>
+    <Reference Include="Bepu, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Vrtc.Bepu.DesktopGL.1.0.2\lib\net45\Bepu.dll</HintPath>
+    </Reference>
+    <Reference Include="ChaoticWorkshop.SDK, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\Virtex.ChaoticWorkshop.ModSDK.0.9.4-beta\lib\net45\ChaoticWorkshop.SDK.dll</HintPath>
     </Reference>
     <Reference Include="Farseer, Version=1.1.6727.37967, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Virtex.ChaoticWorkshop.ModSDK.0.9.1-beta\lib\net45\Farseer.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Virtex.Lib.Vrtc.Physics.Farseer.GL.1.0.3\lib\net45\Farseer.dll</HintPath>
+    </Reference>
+    <Reference Include="Lidgren.GL, Version=2012.1.7.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Vrtc.Lidgren.DesktopGL.1.0.2\lib\net45\Lidgren.GL.dll</HintPath>
     </Reference>
     <Reference Include="MonoGame.Framework, Version=3.7.1.189, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MonoGame.Framework.DesktopGL.3.7.1.189\lib\net45\MonoGame.Framework.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.12.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="VerticesEngine.GL, Version=1.5.5.30117, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\Virtex.ChaoticWorkshop.ModSDK.0.9.1-beta\lib\net45\VerticesEngine.GL.dll</HintPath>
+    <Reference Include="VerticesEngine, Version=1.6.0.42395, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\VerticesEngine.DesktopGL.1.6.0\lib\net45\VerticesEngine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Items\Boxes\TemplateItem_BoxGrey.cs" />
+    <Compile Include="Items\Boxes\TemplateItem_BoxYellow.cs" />
+    <Compile Include="Items\Boxes\TemplateItem_BoxPurple.cs" />
+    <Compile Include="Items\Circles\TemplateItem_CirclePurple.cs" />
+    <Compile Include="Items\Circles\TemplateItem_CircleOrange.cs" />
+    <Compile Include="Items\Circles\TemplateItem_CircleGreen.cs" />
     <Compile Include="TestBedModPack.cs" />
     <Compile Include="Items\TempateBaseSandboxEntity.cs" />
-    <Compile Include="Items\TempateItem_CircleEntities.cs" />
+    <Compile Include="Items\Circles\TemplateItem_CircleGrey.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
