@@ -3,10 +3,11 @@
 [![nugetDownloads](https://img.shields.io/nuget/dt/Virtex.ChaoticWorkshop.ModSDK.svg)](https://www.nuget.org/packages/Virtex.ChaoticWorkshop.ModSDK)
 [![discordLink](https://img.shields.io/discord/477648425492545559?logo=discord)](https://discord.gg/zQ5UkDtGqH)
 
-[![Foo](https://raw.githubusercontent.com/VirtexEdgeDesign/chaoticworkshop-modkit/master/docs/img/icon/logo.png)](http://google.com.au/)
+[![Foo](https://raw.githubusercontent.com/VirtexEdgeDesign/chaoticworkshop-modkit/master/docs/img/icon/logo.png)](https://github.com/VirtexEdgeDesign/chaoticworkshop-modkit)
 
 The Chaotic Workshop Mod kit provides an SDK to code and create your own Items and Levels for the use in Chaotic Workshop. The game uses the [Farseer Physics Library](https://archive.codeplex.com/?p=farseerphysics) to create a physics sandbox. 
-<img src="https://i.imgur.com/ywVHBEC.png">
+
+[![gameLink](https://i.imgur.com/ywVHBEC.png)](https://thechaoticworkshop.com/)
 
 
 # Mods in Action
@@ -22,5 +23,5 @@ You can read the [Wiki here](https://rtroe.github.io/ChaoticWorkshop/index.html)
 ## Get Chaotic Workshop
 You'll need a copy of Chaotic Workshop to use the SDK. You can download it from Steam below:
 
-<a target="_blank" href="https://store.steampowered.com/app/895900" >![steam](https://i.imgur.com/s9VYzxv.png)</a>
+[![steamLink](https://i.imgur.com/s9VYzxv.png)](https://store.steampowered.com/app/895900)
 
