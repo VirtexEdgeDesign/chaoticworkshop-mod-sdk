@@ -1,11 +1,9 @@
 # The Chaotic Workshop Modkit
+[![nugetVersion](https://img.shields.io/nuget/v/Virtex.ChaoticWorkshop.ModSDK.svg?logo=nuget)](https://www.nuget.org/packages/Virtex.ChaoticWorkshop.ModSDK)
+[![nugetDownloads](https://img.shields.io/nuget/dt/Virtex.ChaoticWorkshop.ModSDK.svg)](https://www.nuget.org/packages/Virtex.ChaoticWorkshop.ModSDK)
+[![discordLink](https://img.shields.io/discord/477648425492545559?logo=discord)](https://discord.gg/zQ5UkDtGqH)
 
-<img src="https://raw.githubusercontent.com/VirtexEdgeDesign/chaoticworkshop-modkit/master/docs/img/icon/logo.png" width="200px"> 
-<br />
-<br />
- <a href="https://www.nuget.org/packages/Virtex.ChaoticWorkshop.ModSDK" target="_blank"><img src="https://img.shields.io/nuget/v/Virtex.ChaoticWorkshop.ModSDK.svg?logo=nuget"></a>
-<a href="https://www.nuget.org/packages/Virtex.ChaoticWorkshop.ModSDK" target="_blank"><img src="https://img.shields.io/nuget/dt/Virtex.ChaoticWorkshop.ModSDK.svg"></a>
- <a href="https://discord.gg/zQ5UkDtGqH" target="_blank"><img src="https://img.shields.io/discord/477648425492545559?logo=discord" alt="chat on Discord"></a>
+[![Foo](https://raw.githubusercontent.com/VirtexEdgeDesign/chaoticworkshop-modkit/master/docs/img/icon/logo.png)](http://google.com.au/)
 
 The Chaotic Workshop Mod kit provides an SDK to code and create your own Items and Levels for the use in Chaotic Workshop. The game uses the [Farseer Physics Library](https://archive.codeplex.com/?p=farseerphysics) to create a physics sandbox. 
 <img src="https://i.imgur.com/ywVHBEC.png">
