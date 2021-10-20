@@ -2,6 +2,7 @@
 [![nugetVersion](https://img.shields.io/nuget/v/Virtex.ChaoticWorkshop.ModSDK.svg?logo=nuget)](https://www.nuget.org/packages/Virtex.ChaoticWorkshop.ModSDK)
 [![nugetDownloads](https://img.shields.io/nuget/dt/Virtex.ChaoticWorkshop.ModSDK.svg)](https://www.nuget.org/packages/Virtex.ChaoticWorkshop.ModSDK)
 [![discordLink](https://img.shields.io/discord/477648425492545559?logo=discord)](https://discord.gg/zQ5UkDtGqH)
+[![GitHub stars](https://img.shields.io/github/stars/VirtexEdgeDesign/chaoticworkshop-modkit.svg?style=social&label=Star&maxAge=2592000)](https://github.com/VirtexEdgeDesign/chaoticworkshop-modkit)
 
 [![Foo](https://raw.githubusercontent.com/VirtexEdgeDesign/chaoticworkshop-modkit/master/docs/img/icon/logo.png)](https://github.com/VirtexEdgeDesign/chaoticworkshop-modkit)
 
