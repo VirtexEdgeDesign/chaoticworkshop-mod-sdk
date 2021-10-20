@@ -22,6 +22,6 @@ Get Started today with the [Sample Project over on GitHub](https://github.com/Vi
 You can read the [Wiki here](https://rtroe.github.io/ChaoticWorkshop/index.html) to get started. As well with this sample, the monogame framework and a multitude of examples for Farseer online such as it's [own test bed](http://community.monogame.net/t/farseer-physics-engine-testbed-port-to-monogame-3-6/9113), it's incredibly easy to get started today creating your own custom physics sandbox today!
 
 ## Get Chaotic Workshop
-You'll need a copy of Chaotic Workshop to use the SDK. You can download it from Steam below:
+In addition to this sample, You'll need a copy of Chaotic Workshop to use the SDK. You can download it from Steam below:
 
 [![steamPageLink](https://i.imgur.com/s9VYzxv.png)](https://store.steampowered.com/app/895900)
